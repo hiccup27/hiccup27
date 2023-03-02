@@ -1,4 +1,4 @@
-<h1 align="center" > <img src="https://avatars.githubusercontent.com/u/51626000?v=4" width="100px" alt="Literally Logo" />
+<h1 align="center" > 
  <br/>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://findwrk.app/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -22,78 +22,9 @@
   </tr>  
 </table>
 
-### Projects
-<table>
-    <thead align="center">
-        <tr>
-            <td><a href="https://app.hunterdoge.com/">HunterDoge</a></td>
-            <td><a href="https://www.screensaver.world/">ScreenSaverWorld</a></td>           
-            <td><a href="https://rps.ethernity.live/">RPS</a></td>
-            <td><a href="https://upsocia.com/">Upsocia</a></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://app.hunterdoge.com/">
-                    <img src="hunterdoge.png" width="200" style="margin:8px auto">
-                </a>
-            </td>
-            <td>
-                <a href="https://www.screensaver.world/">
-                    <img src="screensaver.png" width="200" style="margin:8px auto;">
-                </a>
-            </td>           
-            <td>
-                <a href="https://rps.ethernity.live/">
-                    <img src="rps_2.png" width="200">
-                </a>
-            </td>
-            <td>
-                <a href="https://upsocia.com/">
-                    <img src="upsocia.png" width="200">
-                </a>
-            </td>                      
-        </tr>
-  </tbody>
-</table>
-<table>
-  <thead align="center">
-      <tr>
-          <td><a href="https://goldpillar.global/">GoldPillar</a></td>
-          <td><a href="https://klassroom.co/">Klassroom</a></td>           
-          <td><a href="http://realestate-markets.info/">Realestate</a></td>
-          <td><a href="https://varunaiot.com/">Varuna</a></td>
-      </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>
-            <a href="https://goldpillar.global/">
-                <img src="goldpillar.png" width="200" style="margin:8px auto">
-            </a>
-        </td>
-        <td>
-            <a href="https://klassroom.co/">
-                <img src="klassboard.png" width="200" style="margin:8px auto;">
-            </a>
-        </td>           
-        <td>
-            <a href="http://realestate-markets.info/">
-                <img src="realestate.png" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://varunaiot.com/">
-                <img src="varuna.png" width="200">
-            </a>
-        </td>                      
-    </tr>
-  </tbody>
-</table>
 
-- 🔭 I’m a senior frontend engineer
-- 🤔 I’m looking for help with building NFT, DeFi, DEX Platforms
+- 🔭 I’m a full stack engineer
+- 🤔 I’m looking for help with building Ecommerce, HealthCare, RealEstate, Blockchain projects.
 - 🚀 Availability: Full-Time Supporting 40hrs/week
 - 💬 Ask me about Web and Blockchain development
 
